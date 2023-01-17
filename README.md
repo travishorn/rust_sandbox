@@ -1,6 +1,6 @@
 # Rust Sandbox
 
-My code as I follow along with [Rust Crash Course | Rustlang by Traversy
+My code as I followed along with [Rust Crash Course | Rustlang by Traversy
 Media](https://youtu.be/zF34dRivLOw). I made some changes along the way to help
 myself better understand the concepts.
 
