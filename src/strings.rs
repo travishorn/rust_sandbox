@@ -31,12 +31,12 @@ pub fn run() {
     // Replace
     println!("Replaced: {}", hello.replace("world", "universe"));
 
-    // There are more string methods. Those are just a sample.
-
     // Loop through string by whitespace
     for token in hello.split_whitespace() {
         println!("{}", token);
     }
+
+    // There are more string methods. Those are just a sample.
 
     // Create string with capacity
     let mut s = String::with_capacity(10);
