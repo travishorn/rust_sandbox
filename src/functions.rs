@@ -20,4 +20,8 @@ pub fn run() {
     let n: i32 = 10;
     let add_nums = |left: i32, right: i32| left + right + n;
     println!("Closure sum: {}", add_nums(3, 3));
+
+    // Note that you won't be able to modify n anymore (even if you declare it
+    // as mut) because the closure borrows it. This prevents problems with
+    // add_nums returning seeminly strange values when n would've changed
 }
