@@ -1,5 +1,5 @@
 // Arrays are fixed length, same data type
-// Look at vectors for growability
+// Look at vectors for resizability
 
 // Without  use std::mem  you must write  std::mem::size_of_val()
 // With     use std::mem  you can write        mem::size_of_val()
