@@ -1,6 +1,6 @@
 // Iterate until a condition is met
 
-pub fn run() {
+pub fn main() {
     let mut count = 0;
 
     // Conditional break

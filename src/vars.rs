@@ -1,7 +1,7 @@
 // Variables hold primitive data or references
 // Immutable and block-scoped
 
-pub fn run() {
+pub fn main() {
     let name = "Mike";
     let mut age = 30;
 

@@ -9,7 +9,7 @@ fn add(left: i32, right: i32) -> i32 {
     left + right
 }
 
-pub fn run() {
+pub fn main() {
     greeting("Hello", "world");
 
     // Bind function return values to variables

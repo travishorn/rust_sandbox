@@ -1,6 +1,6 @@
 // Point to a resource in memeory
 
-pub fn run() {
+pub fn main() {
     // Primitive array
     let arr1 = [1, 2, 3];
     let arr2 = arr1;

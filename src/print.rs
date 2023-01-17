@@ -1,4 +1,4 @@
-pub fn run() {
+pub fn main() {
     println!("Hello from the print.rs file.");
 
     // Basic formatting

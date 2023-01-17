@@ -8,7 +8,7 @@
 
 // Rust is statically typed but can infer based on value & usage.
 
-pub fn run() {
+pub fn main() {
     // Find max size
     println!("Max i32: {}", std::i32::MAX);
     println!("Max i64: {}", std::i64::MAX);

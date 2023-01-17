@@ -5,7 +5,7 @@
 // With     use std::mem  you can write        mem::size_of_val()
 use std::mem;
 
-pub fn run() {
+pub fn main() {
     let numbers: [i32; 5] = [1, 2, 3, 4, 5];
 
     // Will error because it's expecting 5 elements.

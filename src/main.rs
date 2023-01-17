@@ -14,18 +14,18 @@ mod print;
 // mod cli;
 
 fn main() {
-    print::run();
-    // vars::run();
-    // types::run();
-    // strings::run();
-    // tuples::run();
-    // arrays::run();
-    // vectors::run();
-    // conditionals::run();
-    // loops::run();
-    // functions::run();
-    // pointer_ref::run();
-    // structs::run();
-    // enums::run();
-    // cli::run();
+    print::main();
+    // vars::main();
+    // types::main();
+    // strings::main();
+    // tuples::main();
+    // arrays::main();
+    // vectors::main();
+    // conditionals::main();
+    // loops::main();
+    // functions::main();
+    // pointer_ref::main();
+    // structs::main();
+    // enums::main();
+    // cli::main();
 }

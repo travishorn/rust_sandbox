@@ -1,6 +1,6 @@
 use std::env;
 
-pub fn run() {
+pub fn main() {
     // First item will be the running executable
     // For example, it might be "target\\debug\\rust_sandbox.exe"
     // Any remaining items will be arguments passed in

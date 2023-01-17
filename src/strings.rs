@@ -1,7 +1,7 @@
 // Primitive str is immutable and fixed-length in memory.
 // String is growable and heap-allocated. Use when you need to modify data.
 
-pub fn run() {
+pub fn main() {
     // Won't work because hello is a prim string (immutable and fixed-length)
     // let mut hello = "Hello, ";
 

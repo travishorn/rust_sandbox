@@ -19,7 +19,7 @@ fn move_avatar(m: Movement) {
     }
 }
 
-pub fn run() {
+pub fn main() {
     move_avatar(Movement::Up);
     move_avatar(Movement::Right);
     move_avatar(Movement::Down);

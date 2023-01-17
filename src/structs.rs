@@ -43,7 +43,7 @@ impl Person {
     }
 }
 
-pub fn run() {
+pub fn main() {
     // Assign values with the property names
     let mut french_rose = Color {
         red: 200,

@@ -1,6 +1,6 @@
 // Used to act based on condition of something
 
-pub fn run() {
+pub fn main() {
     let mut age: u8 = 18;
     let mut checked_id: bool = false;
     let knows_person: bool = true;
